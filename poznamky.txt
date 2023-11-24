@@ -1,0 +1,9 @@
+odosielanie dat:
+    Python: :data:(int1,int2,int3,int4,intServo5)
+    Arduino: :data:(ok/not)
+    Arduino: :position:(ok)
+
+nulova poloha:
+    Python: :startNula
+    Arduino: :startNula: (ok)
+    Arduino: :position:(ok)

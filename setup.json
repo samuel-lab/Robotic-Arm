@@ -1,0 +1,4 @@
+{
+    "port": "/dev/cu.usbserial-120",
+    "bits_rate": "115200"
+}
